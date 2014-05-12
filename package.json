@@ -10,5 +10,9 @@
   "license": "MIT",
   "dependencies": {
     "neo4j": "~1.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:haio/loopback-connector-neo4j.git"
   }
 }
