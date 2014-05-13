@@ -1,6 +1,6 @@
 {
   "name": "loopback-connector-neo4j",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Neo4j connector for loopback-datasource-juggler",
   "main": "index.js",
   "scripts": {
