@@ -1,6 +1,6 @@
 {
   "name": "loopback-connector-neo4j",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Neo4j connector for loopback-datasource-juggler",
   "main": "index.js",
   "scripts": {
@@ -13,6 +13,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:haio/loopback-connector-neo4j.git"
+    "url": "git@github.com:IndustrialCloudSolutions/loopback-connector-neo4j.git"
   }
 }
