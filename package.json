@@ -6,7 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "haio",
+  "author": {
+    "name": "haio"
+  },
   "license": "MIT",
   "dependencies": {
     "neo4j": "~1.1.0"
@@ -14,5 +16,29 @@
   "repository": {
     "type": "git",
     "url": "git@github.com:IndustrialCloudSolutions/loopback-connector-neo4j.git"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/IndustrialCloudSolutions/loopback-connector-neo4j/issues"
+  },
+  "homepage": "https://github.com/IndustrialCloudSolutions/loopback-connector-neo4j",
+  "_id": "loopback-connector-neo4j@0.1.3",
+  "dist": {
+    "shasum": "ae0fa1f2b46e36c5a73bf6caf5f9624c3e366d13",
+    "tarball": "http://registry.npmjs.org/loopback-connector-neo4j/-/loopback-connector-neo4j-0.1.3.tgz"
+  },
+  "_from": "loopback-connector-neo4j@*",
+  "_npmVersion": "1.3.24",
+  "_npmUser": {
+    "name": "haio",
+    "email": "mockingror@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "haio",
+      "email": "mockingror@gmail.com"
+    }
+  ],
+  "directories": {},
+  "_shasum": "ae0fa1f2b46e36c5a73bf6caf5f9624c3e366d13",
+  "_resolved": "https://registry.npmjs.org/loopback-connector-neo4j/-/loopback-connector-neo4j-0.1.3.tgz"
 }
